@@ -28,3 +28,5 @@ int main() {
 	cout << solve(a, b, dp) << "\n";
 	return 0;
 }
+
+// Greedy doesn't work kek!
